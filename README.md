@@ -84,7 +84,7 @@ This project demonstrates advanced SQL-based **operational analytics** to unders
 
 **Sakhi Patel**  
 📧 sakhipatel20@gmail.com  
-🌐 [LinkedIn(https://www.linkedin.com/in/sakhipatel20/)]
+🌐 [LinkedIn](https://www.linkedin.com/in/sakhipatel20/)
 
 ---
 
