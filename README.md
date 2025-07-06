@@ -76,7 +76,7 @@ This project demonstrates advanced SQL-based **operational analytics** to unders
 ## 🔗 Additional Resources
 
 📄 [Retention Analysis](weeklyretention.csv)  
-📄 [Engagement by Device](https://github.com/sakhi20/Operation-Metric-Analytics/blob/61281ca2540c61df493480936e8db6a81d992bfb/weeklyengagement.csv)
+📄 [Engagement by Device](weeklyengagement.csv)
 
 ---
 
